@@ -1,0 +1,12 @@
+{
+  "name": "go-react-desktop-app",
+  "outputfilename": "go-react-desktop-app",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "rayct",
+    "email": "rayct@icloud.com"
+  }
+}
